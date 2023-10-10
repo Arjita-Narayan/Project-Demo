@@ -1,5 +1,5 @@
 # Project-Demo
 This is my first Git Repository.
 <br>
-Author-Arjita Narayan
+Author-Arjita (project.demo)
 
